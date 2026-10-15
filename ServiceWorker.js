@@ -1,9 +1,9 @@
 const cacheName = "Stemtitute-Stemtitute Kindergarten App-1.0.1";
 const contentToCache = [
-    "Build/kindergartenWebR1015.loader.js",
-    "Build/kindergartenWebR1015.framework.js",
-    "Build/kindergartenWebR1015.data",
-    "Build/kindergartenWebR1015.wasm",
+    "Build/KindergartenWebR10152.loader.js",
+    "Build/KindergartenWebR10152.framework.js",
+    "Build/KindergartenWebR10152.data",
+    "Build/KindergartenWebR10152.wasm",
     "TemplateData/style.css"
 
 ];
